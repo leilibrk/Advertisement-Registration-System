@@ -32,7 +32,7 @@ The project leverages a variety of cloud service systems to streamline the adver
 
 To explore this project:
 
-1. Clone the repository: `git clone https://github.com/your-username/advertisement-registration-system.git`
+1. Clone the repository: `git clone https://github.com/leilibrk/advertisement-registration-system.git`
 2. Review the code and documentation in the relevant directories for each cloud service integration and feature.
 3. Experiment with the platform's functionality to understand its interaction with various cloud services.
 
